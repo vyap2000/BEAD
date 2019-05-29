@@ -1,5 +1,6 @@
 ## Big Data Engineering for Analytics 
-##### Repository for my learning of Scala Programming
+##### This is a repository for my learning of Scala Programming
+#
 #
 #
 #### My Resume 
